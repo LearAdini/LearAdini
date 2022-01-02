@@ -1,6 +1,6 @@
 
 
-### My Linkedin [<img src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+icon+icon-1320194801197496824.png" width="25"/>](www.linkedin.com/in/learadini)
+### My Linkedin [<img src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+icon+icon-1320194801197496824.png" width="25"/>](https://www.linkedin.com/in/learadini/)
 
 
 ### My Portfolio [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968770.png" width="25"/>](https://learadini.com/)
