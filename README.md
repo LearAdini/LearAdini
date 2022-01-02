@@ -1,11 +1,12 @@
 
 
-### My Linkedin <a href="https://linkedin.com/in/https://www.linkedin.com/in/learadini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/learadini/" height="30" width="40" /></a>
+### My Linkedin <a href="https://www.linkedin.com/in/learadini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/learadini/" height="30" width="40" /></a>
 
 
-### My CodePen <a href="https://codepen.io/https://codepen.io/learadini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/learadini" height="30" width="40" /></a>
+### My CodePen <a href="https://codepen.io/learadini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/learadini" height="30" width="40" /></a>
 
-### My Website [<img src="https://toppng.com/uploads/preview/web-png-jpg-transparent-stock-website-icon-blue-11563644926reanjnmk6x.png" width="25"/>](https://learadini.com/)
+### My Website   &nbsp; <a href="https://learadini.com/" target="blank"><img align="center" src="https://toppng.com/uploads/preview/web-png-jpg-transparent-stock-website-icon-blue-11563644926reanjnmk6x.png" alt="https://learadini.com/" height="30" width="30" /></a>
+
 
 # Websites I Createad
 
