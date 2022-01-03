@@ -5,7 +5,7 @@
 
 ### My CodePen <a href="https://codepen.io/learadini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/learadini" height="30" width="40" /></a>
 
-### My Website   &nbsp; <a href="/https://learadini.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://learadini.com/" height="30" width="40" /></a>
+### My Website   &nbsp; <a href="https://learadini.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://learadini.com/" height="30" width="40" /></a>
 <p>&nbsp;
   
 # Websites I Createad
@@ -35,7 +35,7 @@
 src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/380_Wix_logo-512.png" alt="wix" width="40" height="40"/> </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=learadini&label=Counter&color=161718&style=flat" alt="learadini" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=learadini&label=Human Visitor's&color=161718&style=flat" alt="learadini" /> </p>
 
 
 
