@@ -11,7 +11,7 @@
  -->
 #
 
-### Online store I made for BenTime, a watch company at Dizengoff center [<img src="https://user-images.githubusercontent.com/80118008/147894236-0f0d7f2e-ba9b-4fad-8375-a79bebe7a89c.png" width="25" height="25"/>](https://www.ben-time.com/) 
+### Online store I made for Ben-Time, a watch store company at Dizengoff Center, Tel Aviv [<img src="https://user-images.githubusercontent.com/80118008/147894236-0f0d7f2e-ba9b-4fad-8375-a79bebe7a89c.png" width="25" height="25"/>](https://www.ben-time.com/) 
 
    
   <!--
