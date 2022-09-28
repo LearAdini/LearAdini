@@ -11,8 +11,6 @@
  -->
 #
 
-### MEAN Stack CRUD App - https://angular-datingapp.herokuapp.com | repo: node.js_angular_dating-app
-
 ### Online Watch Store (made for BenTime, Watch Company) https://www.ben-time.com
 
    
