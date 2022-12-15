@@ -1,8 +1,4 @@
-
-  
-### My LinkedIn <a href="https://www.linkedin.com/in/learadini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/learadini/" height="30" width="40" /></a>
-
-### My CodePen <a href="https://codepen.io/learadini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/learadini" height="30" width="40" /></a>
+<a href="https://codepen.io/learadini" target="blank" color="white"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/learadini" height="30" width="40" /></a>Codepen's
  
  <!--
 ### My Website   &nbsp; <a href="https://learadini.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://learadini.com/" height="30" width="40" /></a>
@@ -11,7 +7,15 @@
  -->
 #
 
-### Online Watch Store (made for BenTime, Watch Company) https://www.ben-time.com
+#### Online Watch Store (made for BenTime, watch store in Tel Aviv): https://www.ben-time.com
+
+#### Who Will Win World Cup 2022 Poll (React, Node.js, Express.js, MongoDB): https://who-wins-world-cup-2022.onrender.com
+
+#### Awesome Looper (JavaScript, HTML, CSS): https://awesome-looper.onrender.com
+
+#### MEAN Stack Dating App: https://github.com/LearAdini/node.js_angular_dating-app
+
+#### ET JEWELRY (Handmade Jewelry Store): www.et-jewelry.co.il
 
    
   <!--
